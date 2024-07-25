@@ -31,8 +31,6 @@
     pip install -r requirements.txt
 ```
 
-
-
 6. To know where each virtual environment is saved is
 
 ```bash
