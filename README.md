@@ -37,8 +37,20 @@
     conda info --envs
 ```
 
-##git commands
 
-1. git add .
-2. git commit -m "updating the readme file"
-3. git push origin main
+## Required Github Commands
+
+```bash
+
+git add .
+
+git commit -m "updating the readme file"
+
+git push origin main
+
+```
+
+
+
+
+GeminiAPIKey: "AIzaSyDnPZKvu7ENB3wAaaEM21UkDm66FLaPdLM"
