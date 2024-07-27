@@ -2,7 +2,7 @@
 
 ## How to run 
 
-1. Create a new virtual neww environme
+1. Create a new virtual newww environme
 
 ```bash
     conda create -n assistant1 python=3.8 (n means new environment)
